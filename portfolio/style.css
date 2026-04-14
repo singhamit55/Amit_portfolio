@@ -149,8 +149,6 @@ body.light-mode .btn--primary {
   transform: translateY(-2px);
   box-shadow: 0 8px 30px rgba(19, 166, 161, 0.4);
 }
-  transform:translateY(-2px);
-}
 .btn--full { width: 100%; justify-content: center; }
 
 /* ── SOCIAL LINKS HOVER ── */

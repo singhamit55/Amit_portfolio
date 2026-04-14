@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Amit Singh - Portfolio
 
 A modern, responsive portfolio website showcasing my work as an AI/ML Engineer and CSE student.
@@ -91,3 +92,7 @@ This portfolio is personal work and not licensed for commercial use.
 
 **Created by:** Amit Singh  
 **Last Updated:** April 14, 2026
+=======
+# portfolio
+This is my portfolio 
+>>>>>>> 7c7e41a140d5677ced4734cea660ba9322076f30
